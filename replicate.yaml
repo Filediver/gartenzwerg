@@ -1,0 +1,6 @@
+# replicate.yaml
+config:
+  image: "bitemedigital/replicatedocker:latest"
+  command:
+    - "python3"
+    - "start.py"
